@@ -2,8 +2,7 @@
 - I’m interested in sports, technology and movies.
 - I’m currently learning python and pygame
 - I’m working on:
--  - a chess game for python 3.7 using pygame and pygame_gui
--  - a Pokemon Go Android app using kivy
+-  - a card game with pygame
 - How to contact me: blaupunktca@gmail.com
 
 <!---
