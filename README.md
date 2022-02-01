@@ -1,8 +1,9 @@
 - Hi, I’m @Blaze1404, 28 years old, living in germany
-- I’m interested in sports, technology and movies.
-- I’m currently learning python and pygame
+- I’m interested in darts, soccer, technology, programming and audio books.
+- I’m currently learning java for android app programming.
 - I’m working on:
--  - a card game with pygame
+-  - a utilities app for darts players (java for android)
+-  - a block game (java for android)
 - How to contact me: blaupunktca@gmail.com
 
 <!---
