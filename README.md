@@ -1,8 +1,8 @@
 - Hi, I’m @Blaze1404, 29 years old, living in germany
 - I’m interested in darts, soccer, technology, programming and audio books.
-- I’m currently learning java for android app programming.
+- I’m currently programming Android apps with Android Studio
 - I’m working on:
--  - a utilities app for darts players (java for android)
+-  - a utilities app for darts players
 - How to contact me: blaupunktca@gmail.com
 
 <!---
