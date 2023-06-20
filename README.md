@@ -1,4 +1,4 @@
-- Hi, I’m @Blaze1404, 29 years old, living in germany
+- Hi, I’m @Blaze1404, 30 years old, living in germany
 - I’m interested in darts, soccer, technology, programming and audio books.
 - I’m currently programming Android apps with Android Studio
 - I’m working on:
