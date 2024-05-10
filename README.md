@@ -3,6 +3,7 @@
 - I’m currently programming Android apps with Android Studio
 - I’m working on:
 -  - a utilities app for darts players
+   - a utilities app for skat players
 - How to contact me: blaupunktca@gmail.com
 
 <!---
